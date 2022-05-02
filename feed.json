@@ -9,5 +9,19 @@
         "name": "Ame Min-Venditti"
     },
     "items": [
+        {
+            "id": "https://aminvenditti.github.io/ameliorations.art/research.html",
+            "url": "https://aminvenditti.github.io/ameliorations.art/research.html",
+            "title": "Research",
+            "summary": "placeholder",
+            "content_html": "<p>placeholder</p>",
+            "author": {
+                "name": "Ame Min-Venditti"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-05-02T13:02:08-05:00",
+            "date_modified": "2022-05-02T13:02:08-05:00"
+        }
     ]
 }

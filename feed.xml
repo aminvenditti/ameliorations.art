@@ -3,10 +3,30 @@
     <title>Ame Min-Venditti</title>
     <link href="https://aminvenditti.github.io/ameliorations.art/feed.xml" rel="self" />
     <link href="https://aminvenditti.github.io/ameliorations.art" />
-    <updated>1969-12-31T18:00:00-06:00</updated>
+    <updated>2022-05-02T13:02:08-05:00</updated>
     <author>
         <name>Ame Min-Venditti</name>
     </author>
     <id>https://aminvenditti.github.io/ameliorations.art</id>
 
+    <entry>
+        <title>Research</title>
+        <author>
+            <name>Ame Min-Venditti</name>
+        </author>
+        <link href="https://aminvenditti.github.io/ameliorations.art/research.html"/>
+        <id>https://aminvenditti.github.io/ameliorations.art/research.html</id>
+
+        <updated>2022-05-02T13:02:08-05:00</updated>
+            <summary>
+                <![CDATA[
+                    placeholder
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>placeholder</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
