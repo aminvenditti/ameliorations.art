@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://aminvenditti.github.io/ameliorations.art/sitemap.xml

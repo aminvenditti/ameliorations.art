@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://aminvenditti.github.io/ameliorations.art/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://aminvenditti.github.io/ameliorations.art/</loc>
+</url>
+<url>
+<loc>https://aminvenditti.github.io/ameliorations.art/contact.html</loc>
+<lastmod>2022-05-02T12:08:49-05:00</lastmod>
+</url>
+<url>
+<loc>https://aminvenditti.github.io/ameliorations.art/cv.html</loc>
+<lastmod>2022-05-02T12:10:31-05:00</lastmod>
+</url>
+<url>
+<loc>https://aminvenditti.github.io/ameliorations.art/test-poem.html</loc>
+<lastmod>2022-05-02T11:57:59-05:00</lastmod>
+<image:image>
+<image:loc>https://aminvenditti.github.io/ameliorations.art/media\posts\1/20220112_164453_HDR.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
