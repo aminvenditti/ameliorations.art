@@ -3,12 +3,43 @@
     <title>Ame Min-Venditti</title>
     <link href="https://aminvenditti.github.io/ameliorations.art/feed.xml" rel="self" />
     <link href="https://aminvenditti.github.io/ameliorations.art" />
-    <updated>2022-05-02T15:20:43-05:00</updated>
+    <updated>2022-05-02T15:55:50-05:00</updated>
     <author>
         <name>Ame Min-Venditti</name>
     </author>
     <id>https://aminvenditti.github.io/ameliorations.art</id>
 
+    <entry>
+        <title>about ame</title>
+        <author>
+            <name>Ame Min-Venditti</name>
+        </author>
+        <link href="https://aminvenditti.github.io/ameliorations.art/about-ame.html"/>
+        <id>https://aminvenditti.github.io/ameliorations.art/about-ame.html</id>
+            <category term="about"/>
+
+        <updated>2022-05-02T15:55:50-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://aminvenditti.github.io/ameliorations.art/media/posts/6/189359674_10218507723636099_4016566880738166489_n.jpg" alt="person with a pen and notebook sitting on a rock near water and coastline at sunset" />
+                    I've been published five times in as many fields. My general interests are forest and watershed dynamics, marine and coastal adaptation, environmental equity, representation in science, collective action for sustainability, and polycentric multi-scale governance. More specifically I am interested in arid southern Peru's systems impacted&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://aminvenditti.github.io/ameliorations.art/media/posts/6/189359674_10218507723636099_4016566880738166489_n.jpg" alt="person with a pen and notebook sitting on a rock near water and coastline at sunset" />
+                <p>I've been published five times in as many fields. My general interests are forest and watershed dynamics, marine and coastal adaptation, environmental equity, representation in science, collective action for sustainability, and polycentric multi-scale governance.</p>
+<p>More specifically I am interested in arid southern Peru's systems impacted heavily by gold mining, pesticide contamination, and overfishing.</p>
+<p>For the past six years, I worked at the WA State Department of Ecology as an in-house consultant focused on data and storytelling; performance management, strategic planning, reporting, change management, and everything in between. While there I helped develop and pilot tools for environmental justice equity analyses and led our Spanish translation and interpretation team.</p>
+<p>My previous research, on three continents, spans molecular biology, plant physiology, ecohydrology, field ecology, and qualitative public policy. My talents are bringing together ideas, people and resources to solve problems creatively.</p>
+<div data-mobiledoc="{&quot;version&quot;:&quot;0.3.2&quot;,&quot;atoms&quot;:[],&quot;cards&quot;:[],&quot;markups&quot;:[[&quot;a&quot;,[&quot;href&quot;,&quot;https://www.leadershiptomorrowseattle.org/news/2021/9/16/meet-the-lt-class-of-2022&quot;]]],&quot;sections&quot;:[[1,&quot;p&quot;,[[0,[],0,&quot;I am part of the &quot;],[0,[0],1,&quot;Leadership Tomorrow class of 2022&quot;],[0,[],0,&quot;, a Puget Sound-wide antiracist community leadership program.&quot;]]],[1,&quot;p&quot;,[[0,[],0,&quot;I">
+<div>
+<p>I am part of the <a href="https://www.leadershiptomorrowseattle.org/news/2021/9/16/meet-the-lt-class-of-2022">Leadership Tomorrow class of 2022</a>, a Puget Sound-wide antiracist community leadership program.</p>
+</div>
+</div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Research</title>
         <author>
@@ -21,7 +52,7 @@
             <category term="reu"/>
             <category term="research"/>
 
-        <updated>2022-05-02T15:20:43-05:00</updated>
+        <updated>2022-05-02T15:52:02-05:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -29,7 +60,7 @@
                 <div data-mobiledoc="{&quot;version&quot;:&quot;0.3.2&quot;,&quot;atoms&quot;:[],&quot;cards&quot;:[],&quot;markups&quot;:[],&quot;sections&quot;:[[1,&quot;p&quot;,[[0,[],0,&quot;I would liken my research experience to a healthy portion from a salad bar. Every time I have pushed myself to question \&quot;what we know\&quot; and find out more, and every mentor who has helped critique and guide my scientific inquiry has led to me pursuing a doctoral degree at the nexus of environmental sustainability and governance.&quot;]]]]}">
 <div>
 <div class="post__toc">
-<h3>Table of Contents</h3>
+<h3>Research projects</h3>
 <ul>
 <li><a href="#mcetoc_1g236t80oul">Ecohydrology in Costa Rica</a></li>
 <li><a href="#mcetoc_1g236t80oum">Public Policy and Deforestation in Mesoamerica</a></li>
@@ -44,6 +75,7 @@
 <li><a href="#mcetoc_1g236t80ouv">Chytridiomycete fungi as a bioindicator of water pollution*</a></li>
 </ul>
 </div>
+<hr>
 <p>I would liken my research experience to a healthy portion from a salad bar. Every time I have pushed myself to question "what we know" and find out more, and every mentor who has helped critique and guide my scientific inquiry has led to me pursuing a doctoral degree at the nexus of environmental sustainability and social science.</p>
 <div data-mobiledoc="{&quot;version&quot;:&quot;0.3.2&quot;,&quot;atoms&quot;:[],&quot;cards&quot;:[],&quot;markups&quot;:[[&quot;strong&quot;]],&quot;sections&quot;:[[1,&quot;p&quot;,[[0,[0],1,&quot;Ecohydrology in Costa Rica&quot;]]],[1,&quot;p&quot;,[[0,[],0,&quot;I studied impacts of deforestation on the water budget. We examined potential changes in water storage in the vegetation within mature premontane forest in Costa Rica and adjacent crop fields of three varieties with distinct crown architectures, specifically focusing on leaf wetness duration (LWD) as a proxy for canopy storage and evaporation of intercepted rainfall. &quot;]]],[1,&quot;p&quot;,[[0,[],0,&quot;I installed thermal dissipation sapflow sensors in tropical trees (funded by US-DOE). I designed experiments and deployed micrometeorological weather stations to collect data from differential land uses on private community land.I also interviewed local farmers and landowners testing their knowledge about the connectedness of intact canopy and water impacts.&quot;]]]]}">
 <div>
